@@ -3,6 +3,8 @@ title: Welcome to mindfulness haven
 ---
 Burnout is a state of emotional, physical, and mental exhaustion caused by excessive and prolonged stress. It is a growing concern for many individuals, regardless of their background or circumstances. While everyday life can be challenging, it's essential to recognize and address the causes and contributing factors of burnout before it becomes overwhelming.
 
+![Deflated girl](img/deflated_girl_on_weed.jpg)
+
 There are several causes and contributing factors that can lead to burnout, including:
 
 1. **Overwhelming responsibilities** - Having too many tasks and responsibilities can put a great deal of stress on individuals. This can lead to feelings of frustration and exhaustion, making it difficult to focus on important tasks.
